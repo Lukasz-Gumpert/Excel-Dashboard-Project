@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/903f4646-9ddc-4187-bae3-e291fc3e47e4)
+
 # Excel Dashboard Project
 ### This is my first project in which I utilized foundational Excel skills to perform basic data analysis.
 
